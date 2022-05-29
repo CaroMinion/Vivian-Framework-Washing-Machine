@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivianCore", "VivianCore.csproj", "{CF432F55-931A-58B7-226D-8E6B0AF73C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivianARCoreInteraction", "VivianARCoreInteraction.csproj", "{B1810A13-4AD2-0714-6FBF-C35D90AB63B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoQUESTGenericMonitor", "AutoQUESTGenericMonitor.csproj", "{ABDD4335-5A16-FD57-F7C3-867AE4B5C22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivianExamplePrototypesEditor", "VivianExamplePrototypesEditor.csproj", "{6BC7B6A9-362D-90D3-69ED-AEAE2545FAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CableComponent", "CableComponent.csproj", "{5257F77B-E6BD-55D6-FB1C-AE57746972E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OEBIF", "OEBIF.csproj", "{C51422E9-3C14-CAAB-7E10-0C3AF88C28A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivianAutoQUESTRecording", "VivianAutoQUESTRecording.csproj", "{701F49CE-9608-0EE0-40F0-A6B4964DB237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF432F55-931A-58B7-226D-8E6B0AF73C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF432F55-931A-58B7-226D-8E6B0AF73C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF432F55-931A-58B7-226D-8E6B0AF73C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF432F55-931A-58B7-226D-8E6B0AF73C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1810A13-4AD2-0714-6FBF-C35D90AB63B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1810A13-4AD2-0714-6FBF-C35D90AB63B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1810A13-4AD2-0714-6FBF-C35D90AB63B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1810A13-4AD2-0714-6FBF-C35D90AB63B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDD4335-5A16-FD57-F7C3-867AE4B5C22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDD4335-5A16-FD57-F7C3-867AE4B5C22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDD4335-5A16-FD57-F7C3-867AE4B5C22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDD4335-5A16-FD57-F7C3-867AE4B5C22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC7B6A9-362D-90D3-69ED-AEAE2545FAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC7B6A9-362D-90D3-69ED-AEAE2545FAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC7B6A9-362D-90D3-69ED-AEAE2545FAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC7B6A9-362D-90D3-69ED-AEAE2545FAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257F77B-E6BD-55D6-FB1C-AE57746972E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257F77B-E6BD-55D6-FB1C-AE57746972E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257F77B-E6BD-55D6-FB1C-AE57746972E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257F77B-E6BD-55D6-FB1C-AE57746972E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51422E9-3C14-CAAB-7E10-0C3AF88C28A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51422E9-3C14-CAAB-7E10-0C3AF88C28A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51422E9-3C14-CAAB-7E10-0C3AF88C28A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51422E9-3C14-CAAB-7E10-0C3AF88C28A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701F49CE-9608-0EE0-40F0-A6B4964DB237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701F49CE-9608-0EE0-40F0-A6B4964DB237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701F49CE-9608-0EE0-40F0-A6B4964DB237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701F49CE-9608-0EE0-40F0-A6B4964DB237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+﻿{
+  "Elements": [
+    {
+      "Type": "Button",
+      "Name": "ButtonPushDoor"
+    },
+    {
+      "Type": "Button",
+      "Name": "ButtonHeat"
+    },
+    {
+      "Type": "Rotatable",
+      "Name": "Door",
+      "InitialAttributeValues": [
+        { "Attribute": "VALUE", "Value": "0.0" }
+      ],
+      "MinRotation": 0.0,
+      "MaxRotation": 90.0,
+      "RotationAxis": {
+        "Origin": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Direction": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "Type": "Movable",
+      "Name": "Mug",
+      "InitialAttributeValues": [
+        { "Attribute": "POSITION", "Value": "(0.35,-0.8,0.0)" }
+      ],
+      "SnapPoses": [
+        { "Position": "(0.35,-0.8,0.0)", "Rotation": "(0,45,0)" }
+      ]
+    },
+    {
+      "Type": "Movable",
+      "Name": "Pie",
+      "InitialAttributeValues": [
+        { "Attribute": "POSITION", "Value": "(-2.5, -1.0, 0.5)" }
+      ],
+      "SnapPoses": [
+        { "Position": "(0.24,-1.18,0.0)", "Rotation": "(-81,115,0)" }
+      ]
+    }
+  ]
+}

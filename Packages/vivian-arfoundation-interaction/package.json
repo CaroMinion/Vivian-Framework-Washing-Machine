@@ -1,0 +1,23 @@
+{
+  "name": "de.ugoe.cs.vivian.arfoundationinteraction",
+  "version": "1.0.0",
+  "displayName": "Vivian AR Foundation Interaction",
+  "description": "AR Foundation based interaction for the Vivian framework",
+  "unity": "2020.3",
+  "dependencies": {
+    "de.ugoe.cs.vivian.core": "0.0.1",
+    "com.unity.xr.arfoundation": "4.1.7",
+    "com.unity.inputsystem": "1.0.2"
+  },
+  "keywords": [
+    "virtual reality",
+    "augmented reality",
+    "virtual prototype"
+  ],
+  "author": {
+    "name": "Patrick Harms",
+    "email": "patrick.harms@informatik.uni-goettingen.de",
+    "url": "swe.informatik.uni-goettingen.de"
+  },
+  "type": "library"
+}
